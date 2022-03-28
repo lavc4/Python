@@ -20,3 +20,6 @@ print("rahul" in list)
 print(f"the value of s1[0][1] :{s1[0][1]}")
 s2 = [["hello world", 87], 45, "string"]
 print(f"the value of s2[0][0][3] :{s2[0][0][3]}")
+
+list.append()
+print(list)
